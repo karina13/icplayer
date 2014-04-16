@@ -1,5 +1,5 @@
 var ice_dictionary = {
-	"editor_title" : "Multiplatform Interactive Content Editor",
+	"editor_title" : "Multi-platform Interactive Content Editor",
 	"save" : "Save",
 	"saved" : "Saved",
 	"ok" : "OK",
